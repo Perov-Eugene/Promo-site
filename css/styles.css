@@ -96,7 +96,7 @@ font-family: 'Poppins', sans-serif; */
 
 html,body{
         
-        overflow:hidden;
+        
         background-color: var(--dark-bg);
         font-family: 'DM Sans', sans-serif;
         letter-spacing: -0.5px;
